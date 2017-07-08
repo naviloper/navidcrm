@@ -9,56 +9,56 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Accounts' => '✔ Organizations',
-	'SINGLE_Accounts' => '✔ Organization',
-	'LBL_ADD_RECORD' => '✔ Add Organization',
-	'LBL_RECORDS_LIST' => '✔ Organization List',
+	'Accounts' => 'حساب‌ها',
+	'SINGLE_Accounts' => 'حساب',
+	'LBL_ADD_RECORD' => 'ایجاد حساب',
+	'LBL_RECORDS_LIST' => 'لیست حساب‌ها',
 
 	// Blocks
-	'LBL_ACCOUNT_INFORMATION' => '✔ Organization Details',
+	'LBL_ACCOUNT_INFORMATION' => 'اطلاعات حساب',
 
 	// Mass Action
-	'LBL_SHOW_ACCOUNT_HIERARCHY' => '✔ Organization Hierarchy',
+	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'سلسله مراتب حساب',
 
 	//Field Labels
-	'industry' => '✔ Industry',
-	'Account Name' => '✔ Organization Name',
-	'Account No' => '✔ Organization Number',
-	'Website' => '✔ Website',
-	'Ticker Symbol' => '✔ Ticker Symbol',
-	'Member Of' => '✔ Member Of',
-	'Employees' => '✔ Employees',
-	'Ownership' => '✔ Ownership',
-	'SIC Code' => '✔ SIC Code',
-	'Other Email' => '✔ Secondary Email',
-	'Other Phone' => '✔ Secondary Phone',
-	'Phone' => '✔ Primary Phone',
-	'Email' => '✔ Primary Email',
-	'Type' => '✔ Type',
+	'industry' => 'صنعت',
+	'Account Name' => 'نام حساب',
+	'Account No' => 'شماره حساب',
+	'Website' => 'وبسایت',
+	'Ticker Symbol' => 'نماد',
+	'Member Of' => 'عضوی از',
+	'Employees' => 'کارمندان',
+	'Ownership' => 'مالکیت',
+	'SIC Code' => 'کد SIC',
+	'Other Email' => 'ایمیل دوم',
+	'Other Phone' => 'تلفن دوم',
+	'Phone' => 'تلفن',
+	'Email' => 'ایمیل',
+	'Type' => 'نوع حساب',
 
 	//Added for existing picklist entries
-	'Analyst'=>'Analyst',
-	'Competitor'=>'Competitor',
-	'Customer'=>'Customer',
-	'Integrator'=>'Integrator',
-	'Investor'=>'Investor',
-	'Press'=>'Press',
-	'Prospect'=>'Prospect',
-	'Reseller'=>'Reseller',
-	'LBL_START_DATE' => '✔ Start Date',
-	'LBL_END_DATE' => '✔ End Date',
+	'Analyst'=>'تحلیلگر',
+	'Competitor'=>'رقیب',
+	'Customer'=>'مشتری',
+	'Integrator'=>'اتحادیه',
+	'Investor'=>'سرمایه گذار',
+	'Press'=>'مطبوعات',
+	'Prospect'=>'علاقمند',
+	'Reseller'=>'نمایندگی فروش',
+	'LBL_START_DATE' => 'تاریخ شروع',
+	'LBL_END_DATE' => 'تاریخ پایان',
 
 	//Duplication error message
-	'LBL_DUPLICATES_EXIST' => '✔ Organization Name already exists',
-	'LBL_COPY_SHIPPING_ADDRESS' => '✔ Copy Shipping Address',
-	'LBL_COPY_BILLING_ADDRESS' => '✔ Copy Billing Address',
-	'LBL_IMAGE_INFORMATION' => '✔ Profile Picture',
-	'Organization Image' => '✔ Organization Image',
+	'LBL_DUPLICATES_EXIST' => 'حسابی با این نام هم اکنون موجود است',
+	'LBL_COPY_SHIPPING_ADDRESS' => 'آدرس ارسال را کپی کن',
+	'LBL_COPY_BILLING_ADDRESS' => 'آدرس پرداخت را کپی کن',
+	'LBL_IMAGE_INFORMATION' => 'عکس پروفایل',
+	'Organization Image' => 'لوگو',
 );
 
 $jsLanguageStrings = array(
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => '✔ Are you sure you want to delete?',
-	'LBL_DELETE_CONFIRMATION' => '✔ Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?',
-	'LBL_MASS_DELETE_CONFIRMATION' => '✔ Deleting this Organization(s) will remove its related Opportunities & Quotes. Are you sure you want to delete the selected records?',
-	'JS_DUPLICATE_CREATION_CONFIRMATION' => '✔ Organization Name already Exists.Do you want to create a duplicate record?'
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'آیا از حذف این مورد اطمینان دارید؟',
+	'LBL_DELETE_CONFIRMATION' => 'با حذف این حساب کلیه موارد مربوط به آن نیز حذف میشود. آیا از انجام این عملیات اطمینان دارید؟',
+	'LBL_MASS_DELETE_CONFIRMATION' => 'با حذف این حساب(ها) کلیه موارد مربوط به آن نیز حذف میشود. آیا از حدف کلیه حسابهای انتخاب شده اطمینان دارید؟',
+	'JS_DUPLICATE_CREATION_CONFIRMATION' => 'حسابی با این نام هم اکنون وجود دارد. آیا میخواهید مجدد حسابی با همین نام ایجاد شود؟'
 );
